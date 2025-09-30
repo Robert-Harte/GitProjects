@@ -2,10 +2,12 @@ This repo contains a list of the python projects I have either worked on, curren
 
 ## Completed
 
-
+- [x] Rock Paper Scissors
 
 ## In progress
 
+
+- Tic Tac Toe
 - Sudoku
 
 
