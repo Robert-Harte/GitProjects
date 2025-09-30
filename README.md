@@ -3,10 +3,11 @@ This repo contains a list of the python projects I have either worked on, curren
 ## Completed
 
 - [x] Rock Paper Scissors
+- [x] Number guessing
 
 ## In progress
 
-- Number guessing
+
 
 
 ## Future projects
