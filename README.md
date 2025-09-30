@@ -6,9 +6,10 @@ This repo contains a list of the python projects I have either worked on, curren
 
 ## In progress
 
-
-- Tic Tac Toe
-- Sudoku
+- Number guessing
 
 
 ## Future projects
+
+- Tic Tac Toe
+- Sudoku
