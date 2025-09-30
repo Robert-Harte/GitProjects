@@ -5,6 +5,7 @@ This repo contains a list of the python projects I have either worked on, curren
 - [x] Rock Paper Scissors
 - [x] Number guessing
 - [x] Hangman
+- [x] Password generator
 
 ## In progress
 
