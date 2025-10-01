@@ -6,13 +6,13 @@ This repo contains a list of the python projects I have either worked on, curren
 - [x] Number guessing
 - [x] Hangman
 - [x] Password generator
+- [x] Tic Tac Toe
 
 ## In progress
 
-
+- Sudoku
 
 
 ## Future projects
 
-- Tic Tac Toe
-- Sudoku
+
