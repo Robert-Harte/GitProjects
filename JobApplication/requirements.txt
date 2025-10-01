@@ -1,0 +1,9 @@
+A python project to track my job applications.
+
+This application will make use of a GUI. The data will be stored in data files in a JSON format.
+
+The application needs to be able to:
+
+1. Add new job applications.
+2. Edit existing job applications.
+3. Search, sort and filter job applications.

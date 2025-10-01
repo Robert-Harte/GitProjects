@@ -1,0 +1,29 @@
+[
+    {
+        "title": "CEO",
+        "description": "CEO of Company A",
+        "company": "Company A",
+        "website": "Reed",
+        "url": "www.bbc.co.uk",
+        "status": "Applied",
+        "date": "2025-09-25"
+    },
+    {
+        "title": "Barman",
+        "description": "Barman at the Swan hotel",
+        "company": "The Swan pub",
+        "website": "Indeed",
+        "url": "https://www.swanstaines.co.uk/",
+        "status": "Rejected",
+        "date": "2025-09-30"
+    },
+    {
+        "title": "Barman",
+        "description": "Barman at Teddington RFC",
+        "company": "Teddington RFC",
+        "website": "Indeed",
+        "url": "https://www.teddingtonrfc.co.uk/",
+        "status": "Success",
+        "date": "2025-09-30"
+    }
+]
