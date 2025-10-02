@@ -10,7 +10,7 @@ This repo contains a list of the python projects I have either worked on, curren
 
 ## In progress
 
-- Sudoku
+- Job application program (GUI which tracks which jobs I have applied for)
 
 
 ## Future projects
